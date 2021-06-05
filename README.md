@@ -1,11 +1,10 @@
 # STOPTIMER
 
-It is a solution to the Coding Ninjas CareerCamp Web dev-test. Please visit the Coding Ninjas career camp website[CodingNinjas CareerCamp](https://careercamp.codingninjas.com/?utm_source=codingninjas&utm_medium=top_navigation&utm_campaign=landing_header) for more details.
+It is a solution to the Coding Ninjas CareerCamp Web dev-test. Please visit the Coding Ninjas career camp website [CodingNinjas CareerCamp](https://careercamp.codingninjas.com/?utm_source=codingninjas&utm_medium=top_navigation&utm_campaign=landing_header) for more details.
 
 ## Table of contents
 
 - [Overview](#overview)
-  - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
@@ -28,7 +27,7 @@ It is a stop timer watch with the basic functionalities of the start, stop and r
 
 - Live Site URL: [Live Website](https://kurosakicoder.github.io/StopTimerWithThemeChanger/)
 
-### My process
+## My process
 
 First, I designed the skeleton of the design using HTML and CSS. Then, I started coding in Javascript and also made changes in HTML and CSS.
 
